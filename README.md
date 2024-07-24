@@ -34,9 +34,9 @@ I am a Front-End Developer. I like to learn new things ðŸ“š, listen to music ðŸŽ
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Coo1PeR&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Coo1PeR&theme=gruvbox&background=45%2C014E50%2C343E1A)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coo1PeR&layout=compact&theme=gruvbox )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coo1PeR&layout=compact&theme=gruvbox&bg_color=45%2C014E50%2C343E1A )](https://github.com/anuraghazra/github-readme-stats)
 
 
 
