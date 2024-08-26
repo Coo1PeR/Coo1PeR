@@ -15,6 +15,8 @@
 ### 👨‍💻 About Me :
 I am a Front-End Developer. I like to learn new things 📚, listen to music 🎧 and play the drums 🥁
 
+🌱 I’m currently learning: Node.js, Express, MongoDB
+
 
 ---
 
@@ -30,6 +32,10 @@ I am a Front-End Developer. I like to learn new things 📚, listen to music �
   <img src="https://www.ngxs.io/~gitbook/image?url=https%3A%2F%2F2789922418-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-L9CoGJCq3UCfKJ7RCUg-347405460%252Fuploads%252Fgit-blob-615d2359a69db9a9473dd096e34d66d5c9ae35bd%252Fngxs-logo_light_theme.png%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=9384c928&sv=1" title="NGXS" alt="NGXS"  height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+
 </div>
 
 ---
