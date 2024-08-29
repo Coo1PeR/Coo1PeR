@@ -42,15 +42,15 @@ I am a Front-End Developer. I like to learn new things 📚, listen to music �
 ---
 ### 💻 Some published projects
 <div>
-    <a href="https://coo1per.github.io/dashboard/" target="_blank">
+    <a  target="_blank" href="https://coo1per.github.io/dashboard/">
     Admin-panel
   </a>
 </div>
-<div>
+<!-- <div>
     <a href="https://coo1per.github.io/test-initium/" target="_blank">
     Test task
   </a>
-</div>
+</div> -->
 
 ---
 
