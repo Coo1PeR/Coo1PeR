@@ -3,12 +3,12 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGs1ZTV0dHZhNnV4bXVtYXNvenNqNW42Z2w5bGJ6ZDg3MDkxYjNmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ajnEMG6Tq1j2/giphy.gif" width="240"/>
   <div id="badges">
-    <a href="https://t.me/Coo1PeR">
+    <a href="https://t.me/Coo1PeR" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
 <!--   profile views
-<!--   <img src="https://komarev.com/ghpvc/?username=Coo1PeR&style=flat-square&color=blue" alt=""/> --> -->
+<img src="https://komarev.com/ghpvc/?username=Coo1PeR&style=flat-square&color=blue" alt=""/> -->
 </div>
 
 ---
@@ -42,12 +42,12 @@ I am a Front-End Developer. I like to learn new things 📚, listen to music �
 ---
 ### 💻 Some published projects
 <div>
-    <a href="https://coo1per.github.io/dashboard/">
+    <a href="https://coo1per.github.io/dashboard/" target="_blank">
     Admin-panel
   </a>
 </div>
 <div>
-    <a href="https://coo1per.github.io/test-initium/">
+    <a href="https://coo1per.github.io/test-initium/" target="_blank">
     Test task
   </a>
 </div>
