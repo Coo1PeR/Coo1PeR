@@ -7,7 +7,8 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
-  <!--   <img src="https://komarev.com/ghpvc/?username=Coo1PeR&style=flat-square&color=blue" alt=""/>  -->
+<!--   profile views
+<!--   <img src="https://komarev.com/ghpvc/?username=Coo1PeR&style=flat-square&color=blue" alt=""/> --> -->
 </div>
 
 ---
@@ -36,6 +37,19 @@ I am a Front-End Developer. I like to learn new things 📚, listen to music �
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 
+</div>
+
+---
+### 💻 Some published projects
+<div>
+    <a href="https://coo1per.github.io/dashboard/">
+    Admin-panel
+  </a>
+</div>
+<div>
+    <a href="https://coo1per.github.io/test-initium/">
+    Test task
+  </a>
 </div>
 
 ---
