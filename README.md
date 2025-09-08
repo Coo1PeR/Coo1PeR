@@ -14,9 +14,7 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a Front-End Developer. I like to learn new things 📚, listen to music 🎧 and play the drums 🥁
-
-🌱 I’m currently learning: Node.js, Express, MongoDB
+I am a Front-End Developer. Besides programming, I like listening to music 🎧 and playing the drums 🥁
 
 
 ---
